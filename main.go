@@ -1,5 +1,6 @@
 package main
 
+// Проверка сохранит ли гит это
 import (
 	"fmt"
 )
